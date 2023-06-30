@@ -43,4 +43,15 @@ To access the services using:
 - Prometheus: http://localhost:9090
 - Grafana: http://localhost:3000
 
-Users and passwords available in docker-compose.yml
+Users and passwords available in docker-compose.
+
+to run marketplace web access folder web and run:
+- to install dependencies
+```
+yarn install
+```
+- to run
+```
+yarn start
+```
+
