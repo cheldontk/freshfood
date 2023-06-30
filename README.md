@@ -37,6 +37,10 @@ To run microservices:
 
 
 To access the services using:
+- CatalogApi: http://localhost:8080/q/swagger-ui/#/
+- MarketplaceApi: http://localhost:8081/q/swagger-ui/#/
+- OrderApi: http://localhost:8082/q/swagger-ui/#/
+- MarketplaceWeb: http://localhost:3003
 - Keycloak: http://localhost:8180/auth
 - ArtemisMQ: http://localhost:8161
 - Jaeger: http://localhost:16686
