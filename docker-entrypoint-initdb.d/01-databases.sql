@@ -1,0 +1,2 @@
+CREATE DATABASE freshfood_catalog;
+CREATE DATABASE freshfood_marketplace;
